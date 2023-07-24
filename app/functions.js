@@ -33,7 +33,7 @@ const getResult = (mark) => {
 
 };
 
-//  Create alert functions
+//  Create alert functions    
 
 const massge = document.querySelector('.massge');
  

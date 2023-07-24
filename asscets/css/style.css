@@ -7,9 +7,16 @@
     font-family: 'Poppins', sans-serif;
 }
 
-.only-none{
-display: none;
+.C-bg{
+
+background-color: rgb(114, 4, 4);
+
 }
-.loder{
-display: none;
+
+.loding{
+    display: none;
+}
+.celebration{
+    display: none;
+    border-radius: 10px;margin-bottom: 10px;
 }
